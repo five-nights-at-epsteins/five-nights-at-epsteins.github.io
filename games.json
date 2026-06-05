@@ -1,0 +1,72 @@
+[
+    {
+        "name": "DELTATRAVELER",
+        "slug": "deltatraveler",
+        "image": "/cache/data/image/deltatraveler.png"
+    },
+    {
+        "name": "Diddy Clicker",
+        "slug": "diddyclicker",
+        "image": "/cache/data/image/diddyclicker.png"
+    },
+    {
+        "name": "Epstein Clicker",
+        "slug": "epsteinclicker",
+        "image": "/cache/data/image/epsteinclicker.png"
+    },
+    {
+        "name": "Five Nights At Epstein's",
+        "slug": "five-nights-at-epsteins",
+        "image": "/cache/data/image/five-nights-at-epsteins.png"
+    },
+    {
+        "name": "Five Nights At Epstein's: Season 2",
+        "slug": "five-nights-at-epsteins-s2",
+        "image": "/cache/data/image/five-nights-at-epsteins-s2.png"
+    },
+    {
+        "name": "Hollow Knight: Silksong",
+        "slug": "hollow-knight-silksong",
+        "image": "/cache/data/image/hollow-knight-silksong.png"
+    },
+    {
+        "name": "Hollow Knight",
+        "slug": "hollow-knight-v1",
+        "image": "/cache/data/image/hollow-knight-v1.png"
+    },
+    {
+        "name": "Horo Nite Melonmelody",
+        "slug": "horo-nite-melonmelody",
+        "image": "/cache/data/image/horo-nite-melonmelody.png"
+    },
+    {
+        "name": "Karlson",
+        "slug": "karlson",
+        "image": "/cache/data/image/karlson.png"
+    },
+    {
+        "name": "Ragdoll Drop",
+        "slug": "ragdoll-drop",
+        "image": "/cache/data/image/ragdoll-drop.png"
+    },
+    {
+        "name": "Rocket Soccer Derby",
+        "slug": "rocket-soccer-derby",
+        "image": "/cache/data/image/rocket-soccer-derby.png"
+    },
+    {
+        "name": "The Impossible Game",
+        "slug": "the-impossible-game",
+        "image": "/cache/data/image/the-impossible-game.png"
+    },
+    {
+        "name": "Trump Clicker",
+        "slug": "trumpclicker",
+        "image": "/cache/data/image/trumpclicker.png"
+    },
+    {
+        "name": "ULTRAKILL",
+        "slug": "ultrakill",
+        "image": "/cache/data/image/ultrakill.png"
+    }
+]
